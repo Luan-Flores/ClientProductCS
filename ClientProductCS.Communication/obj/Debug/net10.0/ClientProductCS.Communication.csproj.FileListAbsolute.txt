@@ -1,0 +1,11 @@
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\bin\Debug\net10.0\ClientProductCS.Communication.deps.json
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\bin\Debug\net10.0\ClientProductCS.Communication.dll
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\bin\Debug\net10.0\ClientProductCS.Communication.pdb
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\obj\Debug\net10.0\ClientProductCS.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\obj\Debug\net10.0\ClientProductCS.Communication.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\obj\Debug\net10.0\ClientProductCS.Communication.AssemblyInfo.cs
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\obj\Debug\net10.0\ClientProductCS.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\obj\Debug\net10.0\ClientProductCS.Communication.dll
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\obj\Debug\net10.0\refint\ClientProductCS.Communication.dll
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\obj\Debug\net10.0\ClientProductCS.Communication.pdb
+C:\Users\Luan\Desktop\CSHARP\rocketseat\ClientProductCS\ClientProductCS.Communication\obj\Debug\net10.0\ref\ClientProductCS.Communication.dll

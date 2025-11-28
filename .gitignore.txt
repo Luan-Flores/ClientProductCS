@@ -1,0 +1,48 @@
+### Build ###
+bin/
+obj/
+out/
+
+### Visual Studio ###
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+### NuGet ###
+*.nupkg
+**/packages/*
+!**/packages/build/
+*.snupkg
+
+### Logs ###
+*.log
+
+### Sistema ###
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+### Certificados e HTTPS ###
+*.pfx
+*.p12
+*.cer
+
+# Certificado gerado pelo dotnet dev-certs
+aspnetcore-https.json
+
+### Arquivos sensíveis ###
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Opcional mas recomendado
+Properties/launchSettings.json
+
+### Rider / VSCode ###
+.idea/
+.vscode/
+
+### Publish ###
+/publish/
